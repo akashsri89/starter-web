@@ -5,8 +5,7 @@
 
     <name> -- <role> -- <twitter>
 
-Akash Srivastava
-akashsri2007@gmail.com
+
 
 # THANKS
 
@@ -17,3 +16,4 @@ akashsri2007@gmail.com
     HTML5, CSS3
     jQuery, Modernizr,Oracle,SUN
     GOOGLE,FIREFOX,Internet Explorer
+
