@@ -16,4 +16,4 @@ akashsri2007@gmail.com
 
     HTML5, CSS3
     jQuery, Modernizr,Oracle,SUN
-    GOOGLE,FIREFOX
+    GOOGLE,FIREFOX,Internet Explorer
